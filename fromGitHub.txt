@@ -1,0 +1,4 @@
+This is awesomw file i added directly from github.com
+And now I/m about to comitt it directly to git hub remote reposetory
+This is not a regular stuff we do
+But looks like it's a lot of fun
