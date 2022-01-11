@@ -6,5 +6,7 @@ public class TestCase002 {
 
         System.out.println("Writing codes is my hobby!");
 
+        System.out.println("And I'm great in that!!!");
+
     }
 }
